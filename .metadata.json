@@ -1,0 +1,10 @@
+[
+  {
+    "package": "segregation",
+    "oncran": true
+  },
+  {
+    "package": "tidylog",
+    "oncran": true
+  }
+]

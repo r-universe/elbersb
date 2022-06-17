@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "segregation"]
+	path = segregation
+	url = https://github.com/elbersb/segregation
+	shallow = true
+	registered = true
+[submodule "tidylog"]
+	path = tidylog
+	url = https://github.com/elbersb/tidylog
+	shallow = true
+	registered = true
